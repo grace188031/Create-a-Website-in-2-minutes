@@ -8,7 +8,7 @@ data = {
 
 df = pandas.DataFrame(data)
 
-st.title('WElcome to CyberskillFarm)
+st.title('Welcome to CyberskillFarm')
 st.subheader('Practical IT Skills and Insight')
 st.write('''Datacenter, Systems and Cloud.
 Enjoy it!
