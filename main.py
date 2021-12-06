@@ -8,9 +8,9 @@ data = {
 
 df = pandas.DataFrame(data)
 
-st.title('Our First Streamlit App')
-st.subheader('Introducing Streamlit Everything with Python')
-st.write('''This is our first Web App.
+st.title('WElcome to CyberskillFarm)
+st.subheader('Practical IT Skills and Insight')
+st.write('''Datacenter, Systems and Cloud.
 Enjoy it!
 ''')
 st.write(df)
